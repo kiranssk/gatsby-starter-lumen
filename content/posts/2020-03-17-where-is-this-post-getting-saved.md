@@ -2,7 +2,7 @@
 template: post
 title: where is this post getting saved
 slug: code-review
-draft: true
+draft: false
 date: 2020-03-17T01:15:56.776Z
 description: test
 category: test
